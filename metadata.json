@@ -1,0 +1,6 @@
+{
+  "name": "Smart Jewelry Store",
+  "description": "Premium e-commerce website for traditional and smart luxury jewelry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
